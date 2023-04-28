@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<institute>
+    <department>
+        <depName>Software Engineering</depName>
+        <roomNo>323</roomNo>
+    </department>
+    <department>
+        <depName>Electrical Engineering</depName>
+        <roomNo>421</roomNo>
+    </department>
+    <department>
+        <depName>Mechanical Engineering</depName>
+        <roomNo>873</roomNo>
+    </department>
+    <department>
+        <depName>Civil Engineering</depName>
+        <roomNo>892</roomNo>
+    </department>
+    <department>
+        <depName>Material Engineering</depName>
+        <roomNo>342</roomNo>
+    </department>
+    <department>
+        <depName>Aerospace Engineering</depName>
+        <roomNo>983</roomNo>
+    </department>
+
+</institute>
